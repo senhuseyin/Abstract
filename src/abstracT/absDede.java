@@ -1,4 +1,4 @@
-package abs;
+package abstracT;
 
 public abstract class absDede {
 

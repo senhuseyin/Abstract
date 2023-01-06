@@ -1,4 +1,4 @@
-package abs;
+package abstracT;
 
 public class absconreatTorun extends absOgul{
 

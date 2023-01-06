@@ -2,24 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ce3c71f-81ea-4326-b2e1-bc46cd9fc495" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calisma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Okul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sinif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abs/absDede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abs/absOgul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abs/absTorun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abs/absconreatTorun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abs/concreatOgul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abs/concreatTorun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gchild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yeni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstracT/exdendsEdilecek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calisma/I01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calisma/I02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calisma/I0normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calisma/exdeentEt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calisma/ilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacilik/c01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacilik/c01Kopya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacilik/girilenAsalMı.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacilik/girilenAsalMıKpoya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Okul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sinif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abs/absDede.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracT/absDede.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abs/absOgul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracT/absOgul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abs/absTorun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracT/absTorun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abs/absconreatTorun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracT/absconreatTorun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abs/concreatOgul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracT/concreatOgul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abs/concreatTorun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracT/concreatTorun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gchild.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yeni.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,21 +53,19 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Okul">
-    <configuration name="AvciKuslar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AvciKuslar" />
-      <module name="calisma" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="calisma" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.girilenAsalMı">
     <configuration name="Okul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Okul" />
       <module name="calisma" />
@@ -70,16 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sinif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sinif" />
+    <configuration name="c01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacilik.c01" />
       <module name="calisma" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="calis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calis" />
-      <module name="calisma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacilik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,13 +93,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="girilenAsalMı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacilik.girilenAsalMı" />
+      <module name="calisma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacilik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ilk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calisma.ilk" />
+      <module name="calisma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calisma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.girilenAsalMı" />
+        <item itemvalue="Application.c01" />
+        <item itemvalue="Application.ilk" />
         <item itemvalue="Application.Okul" />
         <item itemvalue="Application.dff" />
-        <item itemvalue="Application.Sinif" />
-        <item itemvalue="Application.AvciKuslar" />
-        <item itemvalue="Application.calis" />
       </list>
     </recent_temporary>
   </component>
