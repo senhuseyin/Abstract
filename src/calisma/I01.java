@@ -11,6 +11,12 @@ public interface I01 {
     //tüm değerler final olduğu için değer atamak zorunludur.
     String str="javacilik oynama";
     int m6();
+    public default void m44(){
+        System.out.println("interfacedeki default method calisti");
+    }
+    public static void m45(){
+        System.out.println("interfacedeki static method calisti");
+    }
 
 
 
