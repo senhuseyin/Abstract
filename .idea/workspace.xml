@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ce3c71f-81ea-4326-b2e1-bc46cd9fc495" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javacilik/zoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacilik/innerLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="calisma" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.zoom">
+  <component name="RunManager" selected="Application.innerLoop">
     <configuration name="I_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Iterator01.I_01" />
       <module name="calisma" />
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="girilenAsalMı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacilik.girilenAsalMı" />
+    <configuration name="innerLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacilik.innerLoop" />
       <module name="calisma" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.innerLoop" />
         <item itemvalue="Application.zoom" />
         <item itemvalue="Application.ListeratorIstenmeyen" />
         <item itemvalue="Application.L_I_01" />
         <item itemvalue="Application.I_01" />
-        <item itemvalue="Application.girilenAsalMı" />
       </list>
     </recent_temporary>
   </component>
